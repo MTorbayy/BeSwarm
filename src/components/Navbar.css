@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    background: #17BEBB;
+    color: white;
+}
+
+.listNav {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.container li {
+    margin-left: 40px ;
+    cursor: pointer;
+}
+
+.logo {
+}
